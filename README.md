@@ -1,3 +1,4 @@
+## **PLEASE USE https://github.com/deakin-launchpad/react-frontend-boilerplate INSTEAD. THIS WILL BE DEPRECATED AT THE END OF JANUARY. UPDATES WILL NOT BE PUSHED THEREAFTER AND THE REPO WILL BE ARCHIVED.**
 
 A boilerplate for react frontend projects.
 
